@@ -1,0 +1,95 @@
+Navegador principal:
+
+- Inicio
+- Sobre la facultad (http://www.filos.unam.mx/sobre/)
+	- Historia
+	- Acerca del director (http://www.filos.unam.mx/sobre/direccion/)
+	- Profesores Eméritos
+	- Secretaría Administrativa
+	- Cuerpos colegiados 
+	- Ubicación 
+- Comunidad
+	- Alumnos (Banner y eventos + fotos)
+		- Inscripción (https://sifyl.galileo.filos.unam.mx/registro/)
+		- Horarios ordinarios (http://servicios.galileo.filos.unam.mx/horarios/ordinarios)
+		- Horarios extraordinarios (http://servicios.galileo.filos.unam.mx/horarios/extraordinarios)
+		- Becas (http://www.filos.unam.mx/estudiantes/programas-estudiantiles/apoyo-economico/)
+		- Historial académico (https://www.dgae-siae.unam.mx/www_gate.php)
+		- Servicio Social (http://www.filos.unam.mx/estudiantes/servicio-social/)
+		- Titulación (http://www.filos.unam.mx/estudiantes/titulacion/)
+		- Bolsa de trabajo (http://www.filos.unam.mx/estudiantes/programas-estudiantiles/bolsa-de-trabajo/)
+		- Actividades deportivas y culturales (http://www.filos.unam.mx/estudiantes/programas-estudiantiles/actividades-culturales/ | http://www.deportes.unam.mx/)
+		- Evaluación docente (https://proyectos.filos.unam.mx/evaluacion/)
+		- Estudiantes extranjeros (http://www.filos.unam.mx/estudiantes/programas-estudiantiles/estudiantes-internacionales-y-nacionales/)
+	- Docentes (Banner y eventos + fotos)
+		- Servicios escolares (galileo.filos.unam.mx)
+		- Solicitudes y trámites (http://www.filos.unam.mx/docentes/tramites/)
+		- Boletín docentes (http://www.filos.unam.mx/cat/boletin)
+		- Servicios
+		- Aulas virtuales
+		- Concursos de oposición
+- Oferta académica (http://www.filos.unam.mx/academia/)
+	- Licenciaturas
+		- Bibliotecología y Estudios de la Información
+		- Desarrollo y Gestión Interculturales
+		- Estudios Latinoamericanos
+		- Filosofía
+		- Geografía
+		- Historia
+		- Letras Clásicas
+		- Letras Hispánicas
+		- Letras Modernas
+		- Literatura Dramática y Teatro
+		- Pedagogía
+	- Posgrados 
+		- Antropología
+		- Bibliotecología y Estudios de la Información
+		- Bioética
+		- Estudios Latinoamericanos
+		- Estudios Mesoamericanos
+		- Filosofía
+		- Filosofía de la Ciencia
+		- Geografía
+		- Historia
+		- Historia del Arte
+		- Letras
+		- Lingüística
+		- Docencia para la Educación Media Superior
+		- Pedagogía
+	- SUAyED
+		 - Bibliotecología y Estudios de la Información
+		 - Filosofía
+		 - Geografía
+		 - Historia
+		 - Letras Hispánicas
+		 - Letras Inglesas
+		 - Pedagogía Universidad Abierta
+		 - Pedagogía a distancia
+- Investigación (http://www.filos.unam.mx/investigacion/)
+	- Líneas de investigación
+	- Apoyo a la investigación
+	- Productos recientes
+- Recursos académicos
+	- Biblioteca “Samuel Ramos” (http://palas-atenea.filos.unam.mx/)
+	- Departamento de lenguas (http://delefyl.galileo.filos.unam.mx/)
+	- Repositorio (http://ru.ffyl.unam.mx/)
+	- Bibliotecas UNAM (http://www.dgbiblio.unam.mx/)
+	- Librerias (http://www.libros.unam.mx/)
+
+Banners (Estos van justo arriba del footer, en la página principal):
+
+- http://www.filosoficas.unam.mx/
+- http://www.iifilologicas.unam.mx/
+- http://www.historicas.unam.mx/
+- http://www.iia.unam.mx/
+- http://www.bioetica.unam.mx/
+
+Footer: 
+
+- Directorio (http://www.filos.unam.mx/sobre/directorio/)
+- Protección civil (http://www.filos.unam.mx/cat/proteccion-civil/)
+- Correo filos (http://mail.filos.unam.mx/)
+- Preguntas frectuentes (http://www.filos.unam.mx/preguntas-frecuentes/)
+- Contacto (http://www.filos.unam.mx/contacto/)
+- Créditos (http://www.filos.unam.mx/creditos/)
+- Repositorio (http://ru.ffyl.unam.mx/)

@@ -1,0 +1,124 @@
+Inicio:
+	- Facultad
+	- Sobre
+		- Historia
+		- Historia de la FFyL
+			- Colecciones
+			- Profesores eméritos
+			- Directores
+			- Documentos y textos
+			- Boletines
+			- Metate. Periódico 2005-2009
+			- Opúsculos 1957 - 1965
+		- Profesores eméritos
+		- Dirección
+		- Secretaría administrativa
+			- Personal
+			- Servicios generales
+			- Bienes y suministros
+			- Presupuesto
+		- Cuerpos colegiados
+			- Consejo técnico
+			- Comisiones dictaminadoras
+		- Directorio
+		- Boletín (DUPLICADO)
+	- Academia
+		- Educación continua (DUPLICADO)
+		- Cátedras extraordinarias (link)
+		- Departamentos de lenguas (link)
+		- División de posgrado
+		- Premios
+		- Biblioteca 'Samuel Ramos'
+		- Repositorio RUFFyL
+		(Links externos de Licenciaturas, Posgrados y SUAyED)
+	- Investigación
+		- Arte
+		- Crítica
+		- Cultura
+		- Derechos humanos
+		- Dramaturgia
+		- Educación
+		- Escritura
+		- Género
+		- Geografía
+		- Historia
+		- Interdisciplina
+		- Justicia
+		- Lingüistica
+		- Literatura
+		- Narración
+		- Política
+		- Tecnología
+		- ¿Quienes somos? (DUPLICADO)
+		- Programas de apoyo (DUPLICADO)
+		- Convocatorias (DUPLICADO)
+		- Proyectos (DUPLICADO)
+	- Educación continua
+		- Inicio
+		- Periodo vacacional
+		- Actividades académicas 2017
+		- Actividades académicas otoño 2016
+		- Comité asesor 2012
+
+		- Inscripción
+		- Preinscripción
+		- Solicitud de pago
+		- Descuentos
+		- Becas
+	- Docentes
+		- Estatutos y reglamentos
+		- Trámites
+		- Legislación universitaria
+		- Directorio (link)
+		- Directorio UNAM (link)
+
+		- PRIDE
+		- PEPASIG
+
+		- ¿Quienes somos?
+		- Programas de apoyo
+		- Convocatorias
+		- Proyectos
+	- Boletín
+	- Equidad de género
+
+Footer:
+	- Sobre la facultad (DUPLICADO)
+	- Academia (DUPLICADO)
+	- Investigación (DUPLICADO)
+	- Boletín (DUPLICADO)
+	- Repositorio (DUPLICADO)
+	- Correo filos
+	- Directorio
+	- Preguntas
+	- Contacto
+	- Créditos 	
+
+Menú raro de arriba:
+	- Protección civil
+	- Comunicados
+	- Dirección
+		- Dirección
+		- Plan de desarrollo
+		- Memorias
+	- Estudiantes
+		- Programas estudiantiles
+		- Movilidad estudiantil
+		- Estudiantes internacionales y nacionales
+		- Bolsa de trabajo
+		- Becas
+		- Orientación vocacional
+		- Actividades culturales
+		- Actividades deportivas
+		- Cursos y talleres
+	- Minutas de las sesiones del H. consejo técnico
+	- Secretaría administrativa (DUPLICADO)
+	- Novedades editoriales (link)
+	- Repositorio
+		- Inicio
+		- Depósitos recientes
+		- Conferencias
+		- Revistas
+		- Anuarios
+		- Profesores
+		- CT actas

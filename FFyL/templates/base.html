@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Facultad de Filosofia y letras</title>
+    <!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <style>
+  /* Note: Try to remove the following lines to see the effect of CSS positioning */
+  .affix {
+      top: 0;
+      width: 100%;
+      z-index: 9999 !important;
+  }
+
+  .affix + .container-fluid {
+      padding-top: 70px;
+  }
+  </style>
+
+  </head>
+  <body>
+    <div class="container-fluid" style="background-color: #002344;color: #C99E00;height:200px;" >
+
+  <h1>Bootstrap Affix Example</h1>
+  <h3>Fixed (sticky) navbar on scroll</h3>
+  <p>Scroll this page to see how the navbar behaves with data-spy="affix".</p>
+  <p>The navbar is attached to the top of the page after you have scrolled a specified amount of pixels.</p>
+</div>
+
+<nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="197">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">FFyL</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Section 4 <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+              <li><a href="#section41">Section 4-1</a></li>
+              <li><a href="#section42">Section 4-2</a></li>
+          </ul>
+      </li>
+    </ul>
+    <form class="navbar-form navbar-right">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Search">
+        <div class="input-group-btn">
+          <button class="btn btn-default" type="submit">
+            <i class="glyphicon glyphicon-search"></i>
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</nav>  
+
+{% block sliders %}
+{% endblock %}
+
+<hr class="featurette-divider">
+
+  <div class="row">
+      <div class="col-md-6">
+            {% block content %}
+            {% endblock %}
+      </div>
+      <div class="col-md-6">
+<!--             <h3>Travel</h3>
+            <p>From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.</p>
+            <p><a href="#">See how to travel on Airbnb</a></p>
+
+            <hr class="featurette-divider">
+
+            <h3>Travel</h3>
+            <p>From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.</p>
+            <p><a href="#">See how to travel on Airbnb</a></p> -->
+      </div>   
+  </div>
+
+<hr class="featurette-divider">
+
+            <h2>Neighborhood guides</h2>
+            <p>Not sure where to stay? We've created neighborhood guides for cities all around the world.</p>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                      <img src="static/pop1.jpg">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                      <img src="static/pop2.jpg">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                      <img src="static/pop3.jpg">
+                    </div>
+                </div>
+            </div>
+</div>
+
+<!-- Footer -->
+<footer class="text-center" style="background-color: #000">
+  <a class="up-arrow" href="#myPage" data-toggle="tooltip">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a>
+  <br><br>
+  <hr>
+  <p>2017 © Facultad de Filosofía y Letras, UNAM.</p> 
+</footer>
+  </body>
+</html>

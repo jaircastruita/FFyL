@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block sliders %}
+  <div class="container">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+
+  <div class="carousel-inner" role="listbox">
+  {% for sli in slider %}
+    <div {% if forloop.counter == 1 %} class="item active" {% else %} class="item" {% endif %}>
+      <img src="{{sli.imagen.url}}" alt="{{sli.titulo}}" width="1200" height="700">
+      <div class="carousel-caption">
+          <h3>{{sli.titulo}}</h3>
+          <p>{{ sli.descripcion|truncatechars:200 }}</p>
+      </div>  
+    </div>
+  {% endfor %}
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+  </div>
+{% endblock %}
+
+
+{% block content %}
+
+  <p>Eventos recientes:</p>
+  <ul>
+    {% for obj in documents %}
+      <li>
+        <h3>{{obj.title}}</h3>
+        <small>(Subido el: {{ obj.uploaded_at }})</small>
+        <p>{{ obj.description|truncatechars:200 }}</p>
+        <p><a href="{{ obj.document.url }}">{{ obj.document.name }}</a></p>
+      </li>
+      <hr class="featurette-divider">
+    {% endfor %}
+  </ul>
+{% endblock %}

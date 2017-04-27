@@ -1,0 +1,47 @@
+Slider página principal:
+	Imagen: imagen
+	URL: url/text
+	Título: texto
+	Fecha: datetime
+
+Calendario de eventos:
+	Fecha subida: datetime
+	Fecha evento: datetime
+	título: texto
+	Descripción evento: texto
+	Lugar
+	Imágen de evento: imagen
+	Documento de evento: imagen, PDF
+
+Boletín
+	Título: texto
+	Descripción: texto
+	Fecha de publicación: datetime
+	Cover: imagen
+	Archivo: PDF, imagen
+
+Cuerpos colegiados:
+	Nombre
+	Apellido
+	Rama de estudios
+	correo electronico
+	Rol
+
+Directorio
+	Nombre
+	Apellido
+	Teléfono: texto
+	Extensión: texto
+	Fax
+	correo electronico
+	cargo
+	cargo-personal
+
+Investigación
+	Título
+	Descripción
+	Producto
+	Cover
+	Categoría
+	Responsable
+	Contacto
