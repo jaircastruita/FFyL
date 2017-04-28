@@ -11,6 +11,6 @@ from slider_principal.models import Slide
 # Create your views here.
 def home(request):
     slider = Slide.objects.all()
-    documents = Evento.objects.all()
+    documents = Evento.objects.all().order_by("-uploaded_at")
     return render(request, 'eventos_principal/home.html', { 'documents': documents,
                                                             'slider': slider})

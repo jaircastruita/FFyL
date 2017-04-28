@@ -8,7 +8,7 @@ class Slide(models.Model):
     autor = models.ForeignKey('auth.User')
     titulo = models.CharField(max_length=200, )
     descripcion = models.TextField()
-    documento = models.FileField(upload_to='documents/')
+    documento = models.FileField(upload_to='documents/', blank=True)
     imagen = models.ImageField(upload_to='documents/slider')
     subido_el = models.DateTimeField(auto_now_add=True)
     activo = models.BooleanField(default=True)

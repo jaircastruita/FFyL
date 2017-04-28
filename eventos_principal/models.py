@@ -14,7 +14,7 @@ class Evento(models.Model):
     #published_date = models.DateTimeField(blank=True, null=True)
     place = models.CharField(max_length=200)
     description = models.TextField()
-    document = models.FileField(upload_to='documents/')
+    document = models.FileField(upload_to='documents/', blank=True)
     uploaded_at = models.DateTimeField(auto_now_add=True)
     activo = models.BooleanField(default=True)
     
